@@ -1,0 +1,15 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\Administrator\Desktop\Workspace\AnalogueElectronics-Notebook\Op-amps\Summing-amp.net
+Start Time: Mon Mar 30 12:10:00 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.768 seconds.
+
+Files loaded:
+C:\Users\Administrator\Desktop\Workspace\AnalogueElectronics-Notebook\Op-amps\Summing-amp.net
+C:\Users\Administrator\AppData\Local\LTspice\lib\sub\opamp.sub
+
