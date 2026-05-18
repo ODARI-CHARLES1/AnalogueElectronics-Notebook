@@ -119,3 +119,9 @@ This repository contains notes, circuit examples, and practical implementations 
 ## License
 
 This content is provided for educational purposes.
+
+## Contact Me
+
+Let us connect through
+
+ 1. Email: odari.charles23@students.dkut.ac.ke
